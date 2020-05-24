@@ -8,3 +8,6 @@ git checkout -b branchName //create ne branch and switch to branch
 git branch //show branch name
 git request-pull master origin //pull Request
 git push origin BranchName //push to current Reguest
+git checkout branchName //change branch
+
+
