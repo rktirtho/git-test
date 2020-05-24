@@ -1,4 +1,10 @@
-git checkout -b branchName
-git branch
-git request-pull master origin
-git push BranchName
+git init // initial Git
+git add . //Add File to Git
+git commit -m "Massage" // Git Massage
+git push -u origin master //Push to master Branch
+git log --oneline //
+
+git checkout -b branchName //create ne branch and switch to branch
+git branch //show branch name
+git request-pull master origin //pull Request
+git push origin BranchName //push to current Reguest
